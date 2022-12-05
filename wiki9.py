@@ -463,6 +463,7 @@ elif pil in ["29"]:
 
         os.system('cd ToxicBomber && python Tbomb.py')
 
+
        
 
 elif pil in ["30"]:
@@ -470,6 +471,7 @@ elif pil in ["30"]:
         os.system('apt update -y ; apt install python -y ; apt install git -y ; pip install requests ; git clone https://github.com/mao2116/mmail')
 
         os.system('cd mmail && python mmail.py')
+
 
      
 
@@ -491,7 +493,8 @@ elif pil in ["32"]:
 
         os.system('cd 1 && python2 mahdi.py')
 
-        
+   
+     
 
     
 
@@ -511,17 +514,20 @@ elif pil in ["34"]:
 
         os.system('cd tansbdall && python main.py')
 
+
+
 elif pil in ["35"]:
 
         os.system('rm -rf IG-FREE && git clone https://github.com/MITSUKI-IID/IG-FREE')
-
-        os.system('cd IG-FREE && python igfree.py')        
+  
+      os.system('cd IG-FREE && python igfree.py')        
 
 elif pil in ["35"]:
 
         os.system('git clone https://github.com/noolep/multiBF_ig && apt install jq -y')
 
         os.system('cd multiBF_ig && bash brute.sh')  
+
 
 elif pil in ["36"]:
 
@@ -535,11 +541,14 @@ elif pil in ["36"]:
 
     os.system('cd SSB && python Bypass.py')	
 
+
 elif pil in ["37"]:
 
         os.system('git clone https://github.com/34TV5TVCGGGGGGGGGGRESWE24354TGWSA/hh')
 
-        os.system('cd hh && python2 b.py')	                
+        os.system('cd hh && python2 b.py')	
+
+                
 
 elif pil in ["38"]:
 
